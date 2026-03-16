@@ -1,0 +1,2 @@
+g++ first.cpp -o first.exe -lfreeglut -lglu32 -lopengl32 -lwinmm -lgdi32
+./first.exe
